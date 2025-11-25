@@ -1,0 +1,14 @@
+{
+  "name": "bot",
+  "version": "0.0.1",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "pg": "^8.11.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "@engine",
+  "version": "0.0.1",
+  "main": "./src/index.ts",
+  "dependencies": {
+    "pg": "^8.11.3"
+  }
+}
